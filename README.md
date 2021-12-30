@@ -1,4 +1,4 @@
-#calcoolator
+# calcoolator
 
 A calculator created using html, css, and js.
 

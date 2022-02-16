@@ -1,6 +1,6 @@
-# calcoolator
+# Calc00lator
 
-A cool calculator created using html, css, and js. (with cool design btw)
+A cool calculator created using html, css, and vanilla js.
 
-To view **calcoolator** live, [click here!](https://stankur.github.io/calculator/)
+To view **Calc00lator** live, [click here!](https://stankur.github.io/calculator/)
 
